@@ -1,2 +1,0 @@
-# tetoris
-pureなJavaScriptでテトリスを作りました。
