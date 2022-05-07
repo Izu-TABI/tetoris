@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+#canvas {
+    position: relative;
+    top: 50px;
+    display: block;
+    margin: auto;
+}
+
+#score-erea {
+    position: fixed;
+    top: 10px;
+    left: 10px;
+}
+
+.tutorial {
+    display: block;
+    position: relative;
+    text-align: center;
+    
+}
